@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qayam123
 - 👀 I’m interested in AI/ML,Computer Vision, Deep learning , Reinforcement learning, Big Data and Full stack Software development
 - 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on AI/Ml, Deeep learning, Computer Vision, Robotics and Generative AI projects
+- 💞️ I’m looking to collaborate on AI/Ml, Deeep learning, Computer Vision, Robotics,NLP, Time Series Forecasting and Generative AI projects
 - 📫 you can reach me at qayamulhaque@gmail.com
 
 <!---
